@@ -15,12 +15,11 @@ h3 {
   body {
     font-size:85%;
   }
-  #logoh1 {
+  #logo h1 {
     height:35px;
     width:35px;
   }
-  #logoh2 {
-    position: absolute;
+  #logo h2 {
     top:72px;
   }
 
