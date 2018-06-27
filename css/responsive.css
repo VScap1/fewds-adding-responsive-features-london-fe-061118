@@ -32,6 +32,8 @@ h3 {
   }
 }
 @media only screen and (max-width: 750px) {
-  #navbar {
-    nav a: 0.9em;
+  #navbar nav a {
+    font-size: 0.9em;
+}
+
 }
