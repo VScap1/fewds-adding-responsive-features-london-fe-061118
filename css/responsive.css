@@ -1,4 +1,4 @@
-@media (min-screenwidth:1108px) {
+@media (max-screenwidth:1108px) {
   .wrapper {
     width:90%
   }
@@ -8,7 +8,7 @@
     right:4px;
   }
 }
-@media (min-screenwidth: 900px) (max-width: {
+@media (max-screenwidth: 900px) {
   .body {
     font-size:85%;
   }
