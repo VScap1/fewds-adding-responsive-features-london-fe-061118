@@ -1,3 +1,6 @@
+.h3 {
+  color: blue;
+}
 @media (max-screenwidth:1108px) {
   .wrapper {
     width:90%
