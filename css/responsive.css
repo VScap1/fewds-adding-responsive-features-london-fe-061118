@@ -21,6 +21,9 @@ h3 {
   #logo h2 {
     top:72px;
   }
+  #social {
+    top: 72px;
+  }
 
   .col-3 p {
     -ms-column-count: 2;
