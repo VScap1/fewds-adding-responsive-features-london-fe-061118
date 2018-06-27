@@ -19,5 +19,14 @@ h3 {
     height:35px;
     width:35px;
   }
+  #logo h2 {
+    position: absolute;
+    top:72px;
+  }
+
+  .col-3 p {
+    
+  }
   
 }
+
