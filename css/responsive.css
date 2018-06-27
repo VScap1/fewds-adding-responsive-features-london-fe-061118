@@ -12,7 +12,7 @@ h3 {
   }
 }
 @media (max-screenwidth: 900px) {
-  .body {
+  body {
     font-size:85%;
   }
   #logo h1 {
